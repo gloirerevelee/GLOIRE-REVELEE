@@ -9,12 +9,8 @@
   <h1>GLOIRE-REVELEE</h1>
   <img src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
 
-  <h2>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION</h2>
+  <h3>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION DE L’APPLICATION GLOIRE REVELEE </h3>
     
-
-DE L’APPLICATION GLOIRE REVELEE 
-
- 
 
 --------------------------------------------------------- 
 
