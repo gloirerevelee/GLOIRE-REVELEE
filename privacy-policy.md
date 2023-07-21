@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>EGLISE INTERNATIONALE GLOIRE-REVELEE</h1>
-  <img src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
+  <img style="text-align:center;" src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
 
   <h3>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION DE L’APPLICATION GLOIRE REVELEE </h3>
     
