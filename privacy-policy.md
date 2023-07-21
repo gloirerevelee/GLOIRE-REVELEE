@@ -27,7 +27,7 @@ Le Pasteur EFALOU D. Pierre est le fondateur de <b>l'Eglise Internationale Gloir
     
 
 <h3>Informations pouvant nécessiter votre autorisation </h3>
-Nous serons amenés à vous demander votre autorisation à certaines fonctionnalités native de votre téléphone afin de vous permettre d’y avoir accès depuis l’application GLOIRE-REVELEE. Si vous rejeter l’autorisation, vous ne pourrai pas accéder à certains services ou fonctionnalités de l’application : 
+Nous serons amenés à vous demander votre autorisation à certaines fonctionnalités native de votre téléphone afin de vous permettre d’y avoir accès depuis l’application <b>GLOIRE REVELEE</b>. Si vous rejeter l’autorisation, vous ne pourrai pas accéder à certains services ou fonctionnalités de l’application : 
 <ul>
   <li>Enrégistrer et lire des audios, videos, images </li>
   <li>Accès à la camera et au micro</li>
