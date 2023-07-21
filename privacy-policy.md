@@ -1,13 +1,16 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
 </head>
 <body>
-  <h1>Politique de Confidentialité</h1>
-  POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION  
+  <h1>GLOIRE-REVELEE</h1>
+  <img src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
+
+  <h2>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION</h2>
+    
 
 DE L’APPLICATION GLOIRE REVELEE 
 
