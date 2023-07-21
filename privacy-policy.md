@@ -1,20 +1,9 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
-
-  <h1>EGLISE INTERNATIONALE GLOIRE-REVELEE</h1>
-  <img src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
-
-  <h3>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION DE L’APPLICATION GLOIRE REVELEE </h3>
-    
+<h1>EGLISE INTERNATIONALE GLOIRE-REVELEE</h1>
+<img src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
+<h3>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION DE L’APPLICATION GLOIRE REVELEE </h3>  
 --------------------------------------------------------- 
-<br>
+
 <h3>Introduction </h3>
 Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons, comment nous les utilisons et quels choix s'offre à vous. 
 L'Eglise Internationale Gloire Révélée a construit l'application GLOIRE REVELEE en tant qu'application gratuite et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
@@ -79,9 +68,11 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 
 <h3>Nous contacter</h3>
 Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter : 
-E-mail : kossi.tsolegnagbo@aiesec.net
-Téléphone : (+228) 92645651 / 98284737
-
-
-</body>
-</html>
+<ul>
+  <li>E-mail : gloirerevelee@gmail.com</li>
+  <li>E-mail-developpeur : kossi.tsolegnagbo@aiesec.net</li>
+  <li>Téléphone : (+228) 92645651 / 98284737</li>
+  <li>Pour effectuer des services liés au Service </li>
+  <li>Pour nous aider à analyser comment notre Service est utilisé.</li>
+</ul>
+<br>
