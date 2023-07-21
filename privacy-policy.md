@@ -30,17 +30,15 @@ Informations pouvant nécessiter votre autorisation
 
 Nous serons amenés à vous demander votre autorisation à certaines fonctionnalités native de votre téléphone afin de vous permettre d’y avoir accès depuis l’application GLOIRE-REVELEE. Si vous rejeter l’autorisation, vous ne pourrai pas accéder à certains services ou fonctionnalités de l’application : 
 
-Accès à la camera 
+<ul>
+  <ol>Accès à la camera </ol>
+  <ol>Accès à la localisation et position </ol>
+  <ol>Accès à la galerie d’image </ol>
+  <ol>Accès à écrire, lire des SMS </ol>
+  <ol>Accès à lire le registre d’appel et à passer des appelles </ol>
+  <ol>Accès à internet </ol>
+</ul>
 
-Accès à la localisation et position 
-
-Accès à la galerie d’image 
-
-Accès à écrire, lire des SMS 
-
-Accès à lire le registre d’appel et à passer des appelles 
-
-Accès à internet 
 
  
 
