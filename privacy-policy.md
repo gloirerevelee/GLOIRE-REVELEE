@@ -18,7 +18,7 @@ Le Pasteur EFALOU D. Pierre est le fondateur de l'Eglise Internationale Gloire R
 <ul>
   <li>Facebook: https://web.facebook.com/EgliseInternationaleGloireRevelee</li>
   <li>Youtube: https://www.youtube.com/channel/UCLjxJ3Mkq9BWL6mBfKYkohQ</li>
-  <li>Whatsapp: https://www.chat.whatsapp.com/IxX42My9mziJoBdpzzUkfx</li>
+  <li>Whatsapp: https://chat.whatsapp.com/IxX42My9mziJoBdpzzUkfx</li>
 </ul>
 ), concourent a la Restauration du corps de Christ. Il est marie a Dorcas et leur mariage est beni avec 3 filles et 2 garcons.
 
