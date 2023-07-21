@@ -14,11 +14,11 @@ L'Eglise Internationale Gloire Révélée, dont le Siege est a Kara au nord du T
 Le mandat de l'église est basé sur Jeremie 1:10 (Regarde je t'etablis aujourd'hui sur les nations et les royaumes, pour que tu arraches et que tu abbattes, pour que tu ruine et que tu detruises, pour que tu batisses et que tu plante.)
 
 <h3>A propos du pasteur principal</h3>
-Le Pasteur EFALOU D. Pierre est le fondateur de l'Eglise Internationale Gloire Revelee (EIGR). Ses puissants enseignements sur les medias et reseaux sociaux(
+Le Pasteur EFALOU D. Pierre est le fondateur de l'Eglise Internationale Gloire Revelee (EIGR). Ses puissants enseignements sur les medias et reseaux sociaux (
 <ul>
   <li>Facebook: https://web.facebook.com/EgliseInternationaleGloireRevelee</li>
   <li>Youtube: https://www.youtube.com/channel/UCLjxJ3Mkq9BWL6mBfKYkohQ</li>
-  <li>Whatsapp: chat.whatsapp.com/IxX42My9mziJoBdpzzUkfx</li>
+  <li>Whatsapp: https://www.chat.whatsapp.com/IxX42My9mziJoBdpzzUkfx</li>
 </ul>
 ), concourent a la Restauration du corps de Christ. Il est marie a Dorcas et leur mariage est beni avec 3 filles et 2 garcons.
 
