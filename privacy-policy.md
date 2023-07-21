@@ -6,15 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>GLOIRE-REVELEE</h1>
+  <h1>EGLISE INTERNATIONALE GLOIRE-REVELEE</h1>
   <img src="https://firebasestorage.googleapis.com/v0/b/goire-revelee.appspot.com/o/images%2Fgloirerevelee.png?alt=media&token=249818ec-5598-42e7-9e0e-0dce6e6ad08e" alt="">
 
   <h3>POLITIQUE DE CONFIDENTIALITÉ DE L’UTILISATION DE L’APPLICATION GLOIRE REVELEE </h3>
     
-
 --------------------------------------------------------- 
 
-Introduction 
+<h4>Introduction </h4>
 
 Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons chez GLOIRE REVELEE, comment GLOIRE-REVELEE les utilise et quels choix vous avez. GLOIRE REVELEE a construit l'application GLOIRE-REVELEE en tant qu'application gratuite. Ce SERVICE est fourni gratuitement par GLOIRE REVELEE et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
 
