@@ -88,5 +88,5 @@ Si vous avez des questions ou des suggestions concernant notre politique de conf
   <li>Téléphone : (+228) 92645651 / 98284737</li>
 </ul>
 <br>
-Nous sommes ouvert aux suggestions, envoyez nous un message par mail au ** kossi.tsolegnagbo@aiesec.net **.
+Nous sommes ouvert aux suggestions, envoyez nous un message par mail au <b>kossi.tsolegnagbo@aiesec.net</b>.
 <br>
