@@ -50,7 +50,7 @@ L'Eglise Internationale Gloire Révélée a construit l'application GLOIRE REVEL
 <p>L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier. </p>
 <p>Pour la sauvegarde et la sécurité des données, nous utilisons les services de stockages sécurisé et fiable. </p>
 
-  <br>
+
 <h3>Cookies</h3>
 <p>Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiant unique anonyme. Ceux-ci sont envoyés à votre navigateur depuis le site Web que vous visitez et sont stockés dans la mémoire interne de vos appareils. </p>
 
@@ -73,19 +73,19 @@ L'Eglise Internationale Gloire Révélée a construit l'application GLOIRE REVEL
 
 <p>Nous souhaitons informer les utilisateurs de ce Service que ces tiers ont accès à vos Informations personnelles. La raison est d'accomplir les tâches qui leur sont confiées en notre nom. Cependant, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins. </p>
 
-<br>
+
 <h3>Sécurité</h3>
 <p>Nous apprécions votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100 %, et nous ne pouvons garantir sa sécurité absolue. </p>
 
-<br>
+
 <h3>Confidentialité des enfants </h3>
 <p>Ces Services ne s'adressent pas aux personnes de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles identifiables d'enfants de moins de 13 ans. Dans le cas où nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires. </p>
 
-  <br>
+
 <h3>Modifications de cette politique de confidentialité </h3>
 <p>Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement après leur publication sur cette page.</p> 
 
-  <br>
+
 <h3>Nous contacter</h3>
 <p>Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter : </p>
 <p>E-mail : kossi.tsolegnagbo@aiesec.net </p>
