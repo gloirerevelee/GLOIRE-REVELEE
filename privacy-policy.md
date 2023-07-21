@@ -6,15 +6,15 @@
 
 <h3>Introduction </h3>
 Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons, comment nous les utilisons et quels choix s'offre à vous. 
-L'Eglise Internationale Gloire Révélée a construit l'application GLOIRE REVELEE en tant qu'application gratuite et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
+<b>L'Eglise Internationale Gloire Révélée</b> a construit l'application GLOIRE REVELEE en tant qu'application gratuite et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
 Les termes utilisés dans la présente politique de confidentialité ont la même signification quelque soit le lieu, sauf indication contraire dans la présente politique de confidentialité. 
 
 <h3>Qui sommes nous? </h3>
-L'Eglise Internationale Gloire Révélée, dont le Siege est a Kara au nord du Togo, est une église qui a pour mission de sauver Le Monde Pour Christ Et Restaurer Le Corps De Christ En Peril En Ces Temps De La Fin mais aussi dans l'Implementation des Eglises et dans la Formation des Pasteurs puis Disciples de Christ.
+<b>L'Eglise Internationale Gloire Révélée</b>, dont le Siege est a Kara au nord du Togo, est une église qui a pour mission de sauver Le Monde Pour Christ Et Restaurer Le Corps De Christ En Peril En Ces Temps De La Fin mais aussi dans l'Implementation des Eglises et dans la Formation des Pasteurs puis Disciples de Christ.
 Le mandat de l'église est basé sur Jeremie 1:10 (Regarde je t'etablis aujourd'hui sur les nations et les royaumes, pour que tu arraches et que tu abbattes, pour que tu ruine et que tu detruises, pour que tu batisses et que tu plante.)
 
 <h3>A propos du pasteur principal</h3>
-Le Pasteur EFALOU D. Pierre est le fondateur de l'Eglise Internationale Gloire Revelee (EIGR). Ses puissants enseignements sur les medias et reseaux sociaux (
+Le Pasteur EFALOU D. Pierre est le fondateur de <b>l'Eglise Internationale Gloire Revelee (EIGR)</b>. Ses puissants enseignements sur les medias et reseaux sociaux (
 <ul>
   <li>Facebook: https://web.facebook.com/EgliseInternationaleGloireRevelee</li>
   <li>Youtube: https://www.youtube.com/channel/UCLjxJ3Mkq9BWL6mBfKYkohQ</li>
