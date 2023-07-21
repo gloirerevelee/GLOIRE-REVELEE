@@ -8,9 +8,23 @@
 Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons, comment nous les utilisons et quels choix s'offre à vous. 
 L'Eglise Internationale Gloire Révélée a construit l'application GLOIRE REVELEE en tant qu'application gratuite et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
 Les termes utilisés dans la présente politique de confidentialité ont la même signification quelque soit le lieu, sauf indication contraire dans la présente politique de confidentialité. 
-L'Eglise Internationale Gloire Révélée, dont le Siege est a Kara au nord du Togo, est une église qui a pour mission de sauver Le Monde Pour Christ Et Restaurer Le Corps De Christ En Peril En Ces Temps De La Fin mais aussi dans l'Implementation des Eglises et dans la Formation des Pasteurs puis Disciples de Christ.
-Le mandat de de l'église est basé sur Jeremie 1:10 (Regarde je t'etablis aujourd'hui sur les nations et les royaumes, pour que tu arraches et que tu abbattes, pour que tu ruine et que tu detruises, pour que tu batisses et que tu plante.)
 
+<h3>Qui sommes nous? </h3>
+L'Eglise Internationale Gloire Révélée, dont le Siege est a Kara au nord du Togo, est une église qui a pour mission de sauver Le Monde Pour Christ Et Restaurer Le Corps De Christ En Peril En Ces Temps De La Fin mais aussi dans l'Implementation des Eglises et dans la Formation des Pasteurs puis Disciples de Christ.
+Le mandat de l'église est basé sur Jeremie 1:10 (Regarde je t'etablis aujourd'hui sur les nations et les royaumes, pour que tu arraches et que tu abbattes, pour que tu ruine et que tu detruises, pour que tu batisses et que tu plante.)
+
+<h3>A propos du pasteur principal</h3>
+Le Pasteur EFALOU D. Pierre est le fondateur de l'Eglise Internationale Gloire Revelee (EIGR). Ses puissants enseignements sur les medias et reseaux sociaux(
+<ul>
+  <li>Facebook: https://web.facebook.com/EgliseInternationaleGloireRevelee</li>
+  <li>Youtube: https://www.youtube.com/channel/UCLjxJ3Mkq9BWL6mBfKYkohQ</li>
+  <li>Whatsapp: chat.whatsapp.com/IxX42My9mziJoBdpzzUkfx</li>
+</ul>
+), concourent a la Restauration du corps de Christ. Il est marie a Dorcas et leur mariage est beni avec 3 filles et 2 garcons.
+
+
+
+    
 
 <h3>Informations pouvant nécessiter votre autorisation </h3>
 Nous serons amenés à vous demander votre autorisation à certaines fonctionnalités native de votre téléphone afin de vous permettre d’y avoir accès depuis l’application GLOIRE-REVELEE. Si vous rejeter l’autorisation, vous ne pourrai pas accéder à certains services ou fonctionnalités de l’application : 
