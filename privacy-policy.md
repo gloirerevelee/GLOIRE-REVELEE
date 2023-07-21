@@ -6,7 +6,7 @@
 
 <h3>Introduction </h3>
 Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons, comment nous les utilisons et quels choix s'offre à vous. 
-<b>L'Eglise Internationale Gloire Révélée</b> a construit l'application <b>GLOIRE REVELEE</b>b> en tant qu'application gratuite et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
+<b>L'Eglise Internationale Gloire Révélée</b> a construit l'application <b>GLOIRE REVELEE</b> en tant qu'application gratuite et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité. 
 Les termes utilisés dans la présente politique de confidentialité ont la même signification quelque soit le lieu, sauf indication contraire dans la présente politique de confidentialité. 
 
 <h3>Qui sommes nous? </h3>
