@@ -83,8 +83,8 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 <h3>Nous contacter</h3>
 Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter : 
 <ul>
-  <li>E-mail : gloirerevelee@gmail.com</li>
-  <li> E-mail-developpeur : kossi.tsolegnagbo@aiesec.net</li>
+  <li>E-mail : www.gloirerevelee@gmail.com</li>
+  <li> E-mail-developpeur : www.kossi.tsolegnagbo@aiesec.net</li>
   <li>Téléphone : (+228) 92645651 / 98284737</li>
 </ul>
 <br>
